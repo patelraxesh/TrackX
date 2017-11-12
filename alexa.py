@@ -15,8 +15,8 @@ import re
 
 firebase = firebase.FirebaseApplication("https://trackx-94915.firebaseio.com/")
 
-ACCOUNT_SID = "AC2bfb2dfdd42e75f169ca972319bec121"
-AUTH_TOKEN = "e511f9c1afaa564be32425e900a3265b"
+ACCOUNT_SID = "$ACCOUNT_SID"
+AUTH_TOKEN = "$AUTH_TOKEN"
 TWILIO_NUMBER = "+16178906207"
 
 client = Client(ACCOUNT_SID, AUTH_TOKEN)
