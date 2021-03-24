@@ -57,7 +57,7 @@ pytz==2015.4
 PyYAML==3.12
 requests==2.11.1
 requests-toolbelt==0.7.0
-rsa==3.4.2
+rsa==4.2
 satori-sdk-python==1.0.3
 six==1.10.0
 SQLAlchemy==1.1.10
