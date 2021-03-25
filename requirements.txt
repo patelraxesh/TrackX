@@ -54,7 +54,7 @@ python-firebase==1.2
 python-jwt==2.0.1
 python-particle==0.2
 pytz==2015.4
-PyYAML==3.12
+PyYAML==5.4
 requests==2.11.1
 requests-toolbelt==0.7.0
 rsa==3.4.2
